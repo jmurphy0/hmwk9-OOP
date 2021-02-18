@@ -31,6 +31,8 @@ User must first make a manager, then will be promted to add team members. Either
 ## Testing
 
 test this with the test files provided using jest
+demo videos are in assets folder of repo: https://github.com/jmurphy0/hmwk9-OOP/blob/master/Assets/oopTEST.mov
+![alttext](Assets/oopTEST.mov)
 
 ## License
 
